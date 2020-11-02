@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "employee tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundakathir/employee-tracker.git"
+  },
+  "author": "sunda kathir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sundakathir/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/sundakathir/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "promise-mysql": "^4.1.3"
+  }
+}
