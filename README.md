@@ -25,3 +25,8 @@ promise-mysql - Used to create promises from MySQL queries
 Run node server.js to start the application and follow the prmpt
 Demo !["demonstration"](./img/employee-tracker.gif)
 
+# git hub repo 
+https://github.com/sundakathir/employee-tracker.git
+
+
+
